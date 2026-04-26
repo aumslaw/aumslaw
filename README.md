@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hey%2C%20I'm%20Aum%20👋&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20Ember%20Learning%20Co%20·%20Shipping%20AI%20agents%20before%20it%20was%20cool&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hey%2C%20I'm%20Aum%20👋&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Shipping%20AI%20agents%20before%20it%20was%20cool&descAlignY=58&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -6,12 +6,6 @@
 
 <br/>
 
-<a href="mailto:hello@deaplearning.com">
-  <img src="https://img.shields.io/badge/hello%40deaplearning.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/San%20Francisco-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=aumslaw&style=flat-square&color=58A6FF&label=profile+views" />
 
 </div>
