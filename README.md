@@ -68,7 +68,7 @@
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aumslaw&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aumslaw&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=C77DFF&text_color=E0AAFF)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
 
