@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hey%2C%20I'm%20Aum%20👋&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Shipping%20AI%20agents%20before%20it%20was%20cool&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hey%2C%20I'm%20Aum%20👋&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <div align="center">
 
