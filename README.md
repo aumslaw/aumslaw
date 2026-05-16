@@ -54,14 +54,17 @@
 
 <div align="center">
 
-<a href="https://github.com/aumslaw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aumslaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&bg_color=0D0D0D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumslaw&layout=compact&hide_border=true&title_color=C77DFF&text_color=E0AAFF&bg_color=0D0D0D" />
-</a>
+<img src="https://img.shields.io/github/followers/aumslaw?style=for-the-badge&logo=github&logoColor=white&color=9D4EDD&labelColor=000000&label=followers" />
+<img src="https://img.shields.io/github/stars/aumslaw?style=for-the-badge&logo=github&logoColor=white&color=9D4EDD&labelColor=000000&label=stars" />
+<img src="https://img.shields.io/github/contributors/aumslaw/aumslaw?style=for-the-badge&logo=github&logoColor=white&color=9D4EDD&labelColor=000000" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=aumslaw&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=9D4EDD&fire=C77DFF&currStreakNum=FFFFFF&sideNums=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=9D4EDD" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/9D4EDD/aumslaw" alt="aumslaw's contribution graph — live" width="100%" />
 
 <br/><br/>
 
