@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=building+cool+AI%2C+I+guess+%F0%9F%A4%B7;EdTech+%C3%97+Autonomous+Agents;shipping+something+new+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=shipping+something+new+every+day+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -65,10 +65,6 @@
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/9D4EDD/aumslaw" alt="aumslaw's contribution graph — live" width="100%" />
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aumslaw&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=C77DFF&text_color=E0AAFF)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
 
