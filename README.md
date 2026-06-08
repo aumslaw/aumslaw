@@ -18,7 +18,7 @@
 |---|---|---|---|
 | 🎓 | **[DeAP](https://deaplearning.com)** — AI tutor for students. Personalized, adaptive, real-time. | Next.js · MongoDB · Claude | `live` |
 | 🏫 | **[Ember](https://emberlearning.org)** — Tools for teachers to run AI-powered classrooms. | Next.js · PostgreSQL · Prisma | `live` |
-| 🤖 | **Vincent** — Autonomous agent that builds and ships entire products end-to-end. | Claude SDK · Railway · Node | `stealth` |
+| 🤖 | **Regent** — Autonomous agent that builds and ships entire products end-to-end. | Claude SDK · Railway · Node | `stealth` |
 | ⚙️ | **Ember Admin** — Internal ops agent running this whole company autonomously. | Claude Code · MongoDB · Stripe | `internal` |
 
 ---
